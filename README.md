@@ -48,7 +48,7 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[20天前 👍：256  ⭐：546]
+<li align='left'>[20天前 👍：260  ⭐：549]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板，近一个月 star 数飙升！🔥</a>
       </li>
 <li align='left'>[1个月前 👍：35  ⭐：66]
@@ -60,7 +60,7 @@ Hi, this is codercup（菲鸽） :wave:
 <li align='left'>[25天前 👍：16  ⭐：25]
       <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
       </li>
-<li align='left'>[25天前 👍：12  ⭐：10]
+<li align='left'>[26天前 👍：12  ⭐：10]
       <a href="https://juejin.cn/post/7327101630146396210" target="_blank">Github 仓库 README.md 里面的 badge 怎么生成的？</a>
       </li>
 <li align='left'>[1个月前 👍：140  ⭐：327]
