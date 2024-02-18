@@ -22,8 +22,8 @@ jobs:
       - name: Append Juejin Posts List 📚
         uses: baozouai/multi-platform-posts-action@main
         with:
-          user_id: '3263006241460792' # 上面拿到不同平台的id后，填入这里
-          platform: juejin # 这里填写不同的平台，有juejin, zhihu, segmentfault
+          user_id: '3263006241460792'
+          platform: juejin
 
       - run: |
           git pull
