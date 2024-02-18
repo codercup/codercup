@@ -43,10 +43,46 @@ Hi, this is codercup（菲鸽） :wave:
 </p>
 
 <!-- multi-platform-posts start -->
-
-这里会插入生成的不同平台的文章列表
-
-<!-- multi-platform-posts end -->
+  <table align="center">
+      <tr>
+        <td align="center" width="800px" valign="top">
+          <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
+<ul>
+<li align='left'>[20天前 👍：256  ⭐：546]
+      <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板，近一个月 star 数飙升！🔥</a>
+      </li>
+<li align='left'>[1个月前 👍：35  ⭐：66]
+      <a href="https://juejin.cn/post/7325287148009357338" target="_blank">【unibest】uniapp + vue3 超实用模板（番外篇）</a>
+      </li>
+<li align='left'>[2天前 👍：3  ⭐：7]
+      <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
+      </li>
+<li align='left'>[25天前 👍：16  ⭐：25]
+      <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
+      </li>
+<li align='left'>[25天前 👍：12  ⭐：10]
+      <a href="https://juejin.cn/post/7327101630146396210" target="_blank">Github 仓库 README.md 里面的 badge 怎么生成的？</a>
+      </li>
+<li align='left'>[1个月前 👍：140  ⭐：327]
+      <a href="https://juejin.cn/post/7321930742400188453" target="_blank">【unibest】uniapp + vue3 超实用模板（终）</a>
+      </li>
+<li align='left'>[1个月前 👍：4  ⭐：9]
+      <a href="https://juejin.cn/post/7315304715809341440" target="_blank">2023过年前熟悉一下常见手写代码</a>
+      </li>
+<li align='left'>[1个月前 👍：14  ⭐：37]
+      <a href="https://juejin.cn/post/7315461542697500682" target="_blank">【unibest】uniapp + vue3 超实用模板(续）</a>
+      </li>
+<li align='left'>[1个月前 👍：27  ⭐：73]
+      <a href="https://juejin.cn/post/7315246744158191666" target="_blank">【unibest】uniapp + vue3 超实用模板</a>
+      </li>
+<li align='left'>[3个月前 👍：8  ⭐：23]
+      <a href="https://juejin.cn/post/7295805817055395878" target="_blank">【2023】静态网站 H5 跳小程序，以及踩坑</a>
+      </li>
+</ul>
+        </td>
+      </tr>
+    </table>
+    <!-- multi-platform-posts end -->
 
 <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
 <picture>
