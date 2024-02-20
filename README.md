@@ -48,16 +48,16 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[21天前 👍：270  ⭐：562]
+<li align='left'>[22天前 👍：270  ⭐：568]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板，近一个月 star 数飙升！🔥</a>
       </li>
 <li align='left'>[1个月前 👍：36  ⭐：67]
       <a href="https://juejin.cn/post/7325287148009357338" target="_blank">【unibest】uniapp + vue3 超实用模板（番外篇）</a>
       </li>
-<li align='left'>[3天前 👍：5  ⭐：9]
+<li align='left'>[3天前 👍：6  ⭐：9]
       <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
       </li>
-<li align='left'>[26天前 👍：16  ⭐：25]
+<li align='left'>[26天前 👍：17  ⭐：25]
       <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
       </li>
 <li align='left'>[27天前 👍：12  ⭐：10]
