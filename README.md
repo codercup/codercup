@@ -55,22 +55,22 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：334  ⭐：699]
+<li align='left'>[1个月前 👍：340  ⭐：715]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[1个月前 👍：42  ⭐：77]
+<li align='left'>[1个月前 👍：42  ⭐：78]
       <a href="https://juejin.cn/post/7325287148009357338" target="_blank">【unibest】uniapp + vue3 超实用模板（番外篇）</a>
       </li>
-<li align='left'>[2天前 👍：17  ⭐：6]
+<li align='left'>[3天前 👍：18  ⭐：7]
       <a href="https://juejin.cn/post/7339401794148188171" target="_blank">【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！</a>
       </li>
-<li align='left'>[4天前 👍：3  ⭐：1]
+<li align='left'>[5天前 👍：3  ⭐：2]
       <a href="https://juejin.cn/post/7338742634166927372" target="_blank">不知道开源项目如何提PR，2分钟教会你！</a>
       </li>
-<li align='left'>[8天前 👍：30  ⭐：50]
+<li align='left'>[9天前 👍：30  ⭐：52]
       <a href="https://juejin.cn/post/7337513012393607207" target="_blank">【unibest】 uniapp  + vue3 模板 UI 框架选型</a>
       </li>
-<li align='left'>[12天前 👍：20  ⭐：18]
+<li align='left'>[13天前 👍：20  ⭐：18]
       <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
       </li>
 <li align='left'>[1个月前 👍：18  ⭐：32]
@@ -79,7 +79,7 @@ Hi, this is codercup（菲鸽） :wave:
 <li align='left'>[1个月前 👍：12  ⭐：11]
       <a href="https://juejin.cn/post/7327101630146396210" target="_blank">Github 仓库 README.md 里面的 badge 怎么生成的？</a>
       </li>
-<li align='left'>[1个月前 👍：142  ⭐：337]
+<li align='left'>[1个月前 👍：143  ⭐：337]
       <a href="https://juejin.cn/post/7321930742400188453" target="_blank">【unibest】uniapp + vue3 超实用模板（终）</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：10]
