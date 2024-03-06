@@ -55,7 +55,7 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：363  ⭐：773]
+<li align='left'>[1个月前 👍：365  ⭐：776]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板，近一个月 star 数飙升！🔥</a>
       </li>
 <li align='left'>[1个月前 👍：44  ⭐：78]
@@ -67,7 +67,7 @@ Hi, this is codercup（菲鸽） :wave:
 <li align='left'>[11天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7338742634166927372" target="_blank">不知道开源项目如何提PR，2分钟教会你！</a>
       </li>
-<li align='left'>[15天前 👍：35  ⭐：59]
+<li align='left'>[15天前 👍：35  ⭐：60]
       <a href="https://juejin.cn/post/7337513012393607207" target="_blank">【unibest】 uniapp  + vue3 模板 UI 框架选型</a>
       </li>
 <li align='left'>[19天前 👍：20  ⭐：19]
