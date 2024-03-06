@@ -55,31 +55,31 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：358  ⭐：758]
+<li align='left'>[1个月前 👍：363  ⭐：773]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[1个月前 👍：43  ⭐：78]
+<li align='left'>[1个月前 👍：44  ⭐：78]
       <a href="https://juejin.cn/post/7325287148009357338" target="_blank">【unibest】uniapp + vue3 超实用模板（番外篇）</a>
       </li>
-<li align='left'>[8天前 👍：20  ⭐：10]
+<li align='left'>[9天前 👍：20  ⭐：10]
       <a href="https://juejin.cn/post/7339401794148188171" target="_blank">【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！</a>
       </li>
-<li align='left'>[10天前 👍：4  ⭐：4]
+<li align='left'>[11天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7338742634166927372" target="_blank">不知道开源项目如何提PR，2分钟教会你！</a>
       </li>
-<li align='left'>[14天前 👍：34  ⭐：57]
+<li align='left'>[15天前 👍：35  ⭐：59]
       <a href="https://juejin.cn/post/7337513012393607207" target="_blank">【unibest】 uniapp  + vue3 模板 UI 框架选型</a>
       </li>
-<li align='left'>[18天前 👍：20  ⭐：19]
+<li align='left'>[19天前 👍：20  ⭐：19]
       <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
       </li>
 <li align='left'>[1个月前 👍：18  ⭐：34]
       <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
       </li>
-<li align='left'>[1个月前 👍：14  ⭐：12]
+<li align='left'>[1个月前 👍：14  ⭐：13]
       <a href="https://juejin.cn/post/7327101630146396210" target="_blank">Github 仓库 README.md 里面的 badge 怎么生成的？</a>
       </li>
-<li align='left'>[1个月前 👍：144  ⭐：343]
+<li align='left'>[1个月前 👍：144  ⭐：344]
       <a href="https://juejin.cn/post/7321930742400188453" target="_blank">【unibest】uniapp + vue3 超实用模板（终）</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：10]
