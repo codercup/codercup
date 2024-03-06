@@ -28,12 +28,12 @@ Hi, this is codercup（菲鸽） :wave:
 [![Juejin](https://img.shields.io/badge/juejin-菲鸽-1e80ff?logo=juejin)](https://juejin.cn/user/3263006241460792)
 [![Github Stars](https://img.shields.io/github/stars/codercup?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/codercup)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=codercup&base=1000)
+![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
+![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
-![React](https://img.shields.io/badge/-React-282c34?logo=react)
 
 </div>
 
