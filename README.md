@@ -61,34 +61,34 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1天前 👍：16  ⭐：2]
+<li align='left'>[2天前 👍：23  ⭐：7]
       <a href="https://juejin.cn/post/7352091152584343563" target="_blank">揭秘，unibest诞生过程；浅谈，开源真不容易</a>
       </li>
-<li align='left'>[23天前 👍：164  ⭐：222]
+<li align='left'>[24天前 👍：165  ⭐：223]
       <a href="https://juejin.cn/post/7344258231478419497" target="_blank">🎉 unibest 官方文档出来啦 🎉</a>
       </li>
-<li align='left'>[2个月前 👍：444  ⭐：949]
+<li align='left'>[2个月前 👍：445  ⭐：950]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[2天前 👍：25  ⭐：29]
+<li align='left'>[3天前 👍：27  ⭐：33]
       <a href="https://juejin.cn/post/7352045156416602166" target="_blank">🎉 号外，unibest 官方文档新增6个新特性 🎉</a>
       </li>
-<li align='left'>[23天前 👍：1  ⭐：1]
+<li align='left'>[24天前 👍：1  ⭐：1]
       <a href="https://juejin.cn/post/7344258204282519564" target="_blank">菲鸽 带你走进 laf OSS </a>
       </li>
-<li align='left'>[1个月前 👍：24  ⭐：19]
+<li align='left'>[1个月前 👍：25  ⭐：20]
       <a href="https://juejin.cn/post/7339401794148188171" target="_blank">【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！</a>
       </li>
-<li align='left'>[1个月前 👍：4  ⭐：4]
+<li align='left'>[1个月前 👍：6  ⭐：5]
       <a href="https://juejin.cn/post/7338742634166927372" target="_blank">不知道开源项目如何提PR，2分钟教会你！</a>
       </li>
-<li align='left'>[1个月前 👍：45  ⭐：80]
+<li align='left'>[1个月前 👍：46  ⭐：83]
       <a href="https://juejin.cn/post/7337513012393607207" target="_blank">【unibest】 uniapp  + vue3 模板 UI 框架选型</a>
       </li>
-<li align='left'>[1个月前 👍：25  ⭐：26]
+<li align='left'>[1个月前 👍：26  ⭐：27]
       <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
       </li>
-<li align='left'>[2个月前 👍：20  ⭐：41]
+<li align='left'>[2个月前 👍：21  ⭐：44]
       <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
       </li>
 </ul>
