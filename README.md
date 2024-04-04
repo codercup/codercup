@@ -61,25 +61,25 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[3天前 👍：29  ⭐：11]
+<li align='left'>[4天前 👍：30  ⭐：11]
       <a href="https://juejin.cn/post/7352091152584343563" target="_blank">揭秘，unibest诞生过程；浅谈，开源真不容易</a>
       </li>
-<li align='left'>[25天前 👍：167  ⭐：226]
+<li align='left'>[26天前 👍：168  ⭐：226]
       <a href="https://juejin.cn/post/7344258231478419497" target="_blank">🎉 unibest 官方文档出来啦 🎉</a>
       </li>
-<li align='left'>[2个月前 👍：448  ⭐：955]
+<li align='left'>[2个月前 👍：448  ⭐：956]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[4天前 👍：28  ⭐：34]
+<li align='left'>[5天前 👍：28  ⭐：34]
       <a href="https://juejin.cn/post/7352045156416602166" target="_blank">🎉 号外，unibest 官方文档新增6个新特性 🎉</a>
       </li>
-<li align='left'>[25天前 👍：1  ⭐：1]
+<li align='left'>[26天前 👍：1  ⭐：1]
       <a href="https://juejin.cn/post/7344258204282519564" target="_blank">菲鸽 带你走进 laf OSS </a>
       </li>
 <li align='left'>[1个月前 👍：25  ⭐：20]
       <a href="https://juejin.cn/post/7339401794148188171" target="_blank">【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！</a>
       </li>
-<li align='left'>[1个月前 👍：6  ⭐：5]
+<li align='left'>[1个月前 👍：7  ⭐：5]
       <a href="https://juejin.cn/post/7338742634166927372" target="_blank">不知道开源项目如何提PR，2分钟教会你！</a>
       </li>
 <li align='left'>[1个月前 👍：49  ⭐：85]
