@@ -61,34 +61,34 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[22天前 👍：37  ⭐：17]
+<li align='left'>[23天前 👍：38  ⭐：18]
       <a href="https://juejin.cn/post/7352091152584343563" target="_blank">揭秘，unibest诞生过程；浅谈，开源真不容易</a>
       </li>
-<li align='left'>[1个月前 👍：176  ⭐：252]
+<li align='left'>[1个月前 👍：176  ⭐：254]
       <a href="https://juejin.cn/post/7344258231478419497" target="_blank">🎉 unibest 官方文档出来啦 🎉</a>
       </li>
-<li align='left'>[2个月前 👍：463  ⭐：996]
+<li align='left'>[2个月前 👍：467  ⭐：1002]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[23天前 👍：34  ⭐：39]
+<li align='left'>[24天前 👍：34  ⭐：39]
       <a href="https://juejin.cn/post/7352045156416602166" target="_blank">🎉 号外，unibest 官方文档新增6个新特性 🎉</a>
       </li>
 <li align='left'>[1个月前 👍：1  ⭐：1]
       <a href="https://juejin.cn/post/7344258204282519564" target="_blank">菲鸽 带你走进 laf OSS </a>
       </li>
-<li align='left'>[1个月前 👍：26  ⭐：20]
+<li align='left'>[1个月前 👍：26  ⭐：21]
       <a href="https://juejin.cn/post/7339401794148188171" target="_blank">【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！</a>
       </li>
 <li align='left'>[1个月前 👍：8  ⭐：8]
       <a href="https://juejin.cn/post/7338742634166927372" target="_blank">不知道开源项目如何提PR，2分钟教会你！</a>
       </li>
-<li align='left'>[2个月前 👍：53  ⭐：92]
+<li align='left'>[2个月前 👍：54  ⭐：92]
       <a href="https://juejin.cn/post/7337513012393607207" target="_blank">【unibest】 uniapp  + vue3 模板 UI 框架选型</a>
       </li>
 <li align='left'>[2个月前 👍：28  ⭐：32]
       <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
       </li>
-<li align='left'>[2个月前 👍：25  ⭐：47]
+<li align='left'>[3个月前 👍：25  ⭐：47]
       <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
       </li>
 </ul>
