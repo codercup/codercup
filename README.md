@@ -61,22 +61,28 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[26天前 👍：41  ⭐：19]
+<li align='left'>[27天前 👍：41  ⭐：20]
       <a href="https://juejin.cn/post/7352091152584343563" target="_blank">揭秘，unibest诞生过程；浅谈，开源真不容易</a>
       </li>
 <li align='left'>[1个月前 👍：176  ⭐：258]
       <a href="https://juejin.cn/post/7344258231478419497" target="_blank">🎉 unibest 官方文档出来啦 🎉</a>
       </li>
-<li align='left'>[2个月前 👍：472  ⭐：1012]
+<li align='left'>[2个月前 👍：474  ⭐：1012]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[27天前 👍：35  ⭐：37]
+<li align='left'>[12小时前 👍：0  ⭐：1]
+      <a href="https://juejin.cn/post/7362095142743818278" target="_blank">【2024年4月】nuxt3 项目模板，让你开发官网得心应手</a>
+      </li>
+<li align='left'>[15小时前 👍：0  ⭐：1]
+      <a href="https://juejin.cn/post/7362102741345271834" target="_blank">【2024年4月】vue-cli项目升级为vite+pnpm记录，8个步骤完美解决</a>
+      </li>
+<li align='left'>[28天前 👍：35  ⭐：37]
       <a href="https://juejin.cn/post/7352045156416602166" target="_blank">🎉 号外，unibest 官方文档新增6个新特性 🎉</a>
       </li>
 <li align='left'>[1个月前 👍：1  ⭐：1]
       <a href="https://juejin.cn/post/7344258204282519564" target="_blank">菲鸽 带你走进 laf OSS </a>
       </li>
-<li align='left'>[2个月前 👍：26  ⭐：24]
+<li align='left'>[2个月前 👍：26  ⭐：25]
       <a href="https://juejin.cn/post/7339401794148188171" target="_blank">【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！</a>
       </li>
 <li align='left'>[2个月前 👍：8  ⭐：8]
@@ -84,12 +90,6 @@ Hi, this is codercup（菲鸽） :wave:
       </li>
 <li align='left'>[2个月前 👍：54  ⭐：93]
       <a href="https://juejin.cn/post/7337513012393607207" target="_blank">【unibest】 uniapp  + vue3 模板 UI 框架选型</a>
-      </li>
-<li align='left'>[2个月前 👍：28  ⭐：33]
-      <a href="https://juejin.cn/post/7334714350899642407" target="_blank">手把手教你github actions 部署 pages，动态网页，静态网页，缓存优化，多分支部署等</a>
-      </li>
-<li align='left'>[3个月前 👍：26  ⭐：48]
-      <a href="https://juejin.cn/post/7327353620232339506" target="_blank">代码要同时推送到 gitee 和 github 该怎么办？教你两招！</a>
       </li>
 </ul>
         </td>
