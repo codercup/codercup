@@ -54,35 +54,35 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：62  ⭐：40]
+<li align='left'>[1个月前 👍：62  ⭐：41]
       <a href="https://juejin.cn/post/7352091152584343563" target="_blank">揭秘，unibest诞生过程；浅谈，开源真不容易</a>
       </li>
-<li align='left'>[2个月前 👍：194  ⭐：282]
+<li align='left'>[2个月前 👍：193  ⭐：282]
       <a href="https://juejin.cn/post/7344258231478419497" target="_blank">🎉 unibest 官方文档出来啦 🎉</a>
       </li>
 <li align='left'>[3个月前 👍：503  ⭐：1069]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
       </li>
-<li align='left'>[2天前 👍：39  ⭐：14]
+<li align='left'>[10小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7372754708590002188" target="_blank">【unibest文档】五、图标篇</a>
+      </li>
+<li align='left'>[10小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7372466344145469481" target="_blank">【unibest文档】4、样式篇</a>
+      </li>
+<li align='left'>[3天前 👍：45  ⭐：16]
       <a href="https://juejin.cn/post/7371698970975010843" target="_blank">【2024年5月】unibest 千星，作者被裁，求工作。</a>
       </li>
-<li align='left'>[20天前 👍：19  ⭐：12]
+<li align='left'>[21天前 👍：19  ⭐：12]
       <a href="https://juejin.cn/post/7363997316413964327" target="_blank">【unibest文档】三、插件篇</a>
       </li>
-<li align='left'>[20天前 👍：20  ⭐：13]
+<li align='left'>[21天前 👍：20  ⭐：13]
       <a href="https://juejin.cn/post/7363997316413947943" target="_blank">【unibest文档】二、快速开始</a>
       </li>
-<li align='left'>[20天前 👍：18  ⭐：12]
+<li align='left'>[21天前 👍：18  ⭐：12]
       <a href="https://juejin.cn/post/7364224622680703010" target="_blank">【unibest文档】一、简介篇</a>
       </li>
-<li align='left'>[27天前 👍：33  ⭐：40]
+<li align='left'>[28天前 👍：34  ⭐：40]
       <a href="https://juejin.cn/post/7362095142743818278" target="_blank">【2024年4月】nuxt3 项目模板，让你开发官网得心应手</a>
-      </li>
-<li align='left'>[27天前 👍：13  ⭐：12]
-      <a href="https://juejin.cn/post/7362102741345271834" target="_blank">【2024年4月】vue-cli项目升级为vite+pnpm记录，8个步骤完美解决</a>
-      </li>
-<li align='left'>[1个月前 👍：37  ⭐：40]
-      <a href="https://juejin.cn/post/7352045156416602166" target="_blank">🎉 号外，unibest 官方文档新增6个新特性 🎉</a>
       </li>
 </ul>
         </td>
