@@ -49,11 +49,7 @@ Hi, this is codercup（菲鸽） :wave:
 
 #### 🔖 Tech Stack
 
-[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/xlstudio)
-
-#### 🛠 Tech Tools
-
-[![My Tools](https://skillicons.dev/icons?i=vscode,figma,git,docker)](https://gitee.com/xlstudio)
+[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/codercup)
 
 ---
 
