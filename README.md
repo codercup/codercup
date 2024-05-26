@@ -30,6 +30,7 @@ Hi, this is codercup（菲鸽） :wave:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=codercup&base=1000)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-34495e?logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
@@ -37,7 +38,31 @@ Hi, this is codercup（菲鸽） :wave:
 
 </div>
 
-**我的开源项目:**
+---
+
+<a href="https://github.com/Xiphin" alt="GitHub">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codercup&show_icons=true" alt="Xiphin's GitHub Stats" />
+</a>
+<a href="https://gitee.com/Xiphin" alt="Gitee">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codercup&layout=compact&langs_count=8&card_width=320" alt="Xiphin's Top Languages" />
+</a>
+
+#### 🔖 Tech Stack
+
+[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/xlstudio)
+
+#### 🛠 Tech Tools
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,figma,git,docker)](https://gitee.com/xlstudio)
+
+---
+
+> 💌  [ WeChat ] :  **codercup**  ->  Find Me
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codercup&theme=monokai" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codercup&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" />
+
+### **我的开源项目:**
 
 [![](https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/codercup/unibest)](https://github.com/codercup/unibest)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codercup&repo=unibest)](https://github.com/codercup/unibest) -->
