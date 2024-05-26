@@ -40,11 +40,11 @@ Hi, this is codercup（菲鸽） :wave:
 
 ---
 
-<a href="https://github.com/Xiphin" alt="GitHub">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codercup&show_icons=true" alt="Xiphin's GitHub Stats" />
+<a href="https://github.com/codercup" alt="GitHub">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codercup&show_icons=true" alt="codercup's GitHub Stats" />
 </a>
-<a href="https://gitee.com/Xiphin" alt="Gitee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codercup&layout=compact&langs_count=8&card_width=320" alt="Xiphin's Top Languages" />
+<a href="https://gitee.com/codercup" alt="Gitee">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codercup&layout=compact&langs_count=8&card_width=320" alt="codercup's Top Languages" />
 </a>
 
 #### 🔖 Tech Stack
