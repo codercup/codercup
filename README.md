@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center>
+<!--<p align=center>
 
 <img alt="菲鸽" src="./assets/avatar.jpg" width=100 />
 
-</p>
+</p>-->
 
 <h2 align=center>
 Hi, this is codercup（菲鸽） :wave:
@@ -40,20 +40,15 @@ Hi, this is codercup（菲鸽） :wave:
 
 ---
 
-<a href="https://github.com/codercup" alt="GitHub">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=codercup&show_icons=true" alt="codercup's GitHub Stats" />
-</a>
-<a href="https://github.com/codercup" alt="github">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codercup&layout=compact&langs_count=8&card_width=320" alt="codercup's Top Languages" />
-</a>
+<p align="center">
+<img   height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=codercup&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codercup&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</p>
 
-#### 🔖 Tech Stack
+<!--#### 🔖 Tech Stack
 
 [![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/codercup)
-
+-->
 ---
-
-> 💌  [ WeChat ] :  **codercup**  ->  Find Me
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codercup&theme=monokai" width="100%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codercup&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" />
