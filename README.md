@@ -70,7 +70,7 @@ Hi, this is codercup（菲鸽） :wave:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：164  ⭐：92]
+<li align='left'>[1个月前 👍：166  ⭐：93]
       <a href="https://juejin.cn/post/7371698970975010843" target="_blank">【2024年5月】unibest 千星，作者被裁，求工作。</a>
       </li>
 <li align='left'>[3个月前 👍：50  ⭐：45]
