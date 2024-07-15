@@ -82,7 +82,7 @@ Hi, this is codercup（菲鸽） :wave:
 <li align='left'>[4个月前 👍：222  ⭐：313]
       <a href="https://juejin.cn/post/7344258231478419497" target="_blank">🎉 unibest 官方文档出来啦 🎉</a>
       </li>
-<li align='left'>[5个月前 👍：566  ⭐：1167]
+<li align='left'>[5个月前 👍：567  ⭐：1170]
       <a href="https://juejin.cn/post/7329034439408615451" target="_blank">🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
       </li>
 <li align='left'>[1个月前 👍：25  ⭐：19]
